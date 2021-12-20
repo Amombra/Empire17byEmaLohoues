@@ -1,0 +1,184 @@
+.elementor-349 .elementor-element.elementor-element-9fb6a74:not(.elementor-motion-effects-element-type-background),
+.elementor-349 .elementor-element.elementor-element-9fb6a74>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    /* background-image: url("../../2020/04/footer-shape-1-green.png"); */
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #dd9711;
+   
+}
+
+.elementor-349 .elementor-element.elementor-element-9fb6a74>.elementor-background-overlay {
+    /* background-image: url("../../2020/04/footer-shape-2-green.png"); */
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    background-color: #dd9711;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+   
+}
+
+.elementor-349 .elementor-element.elementor-element-9fb6a74 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 217px 0px 0px 0px;
+}
+
+.elementor-349 .elementor-element.elementor-element-c8d82c9>.elementor-container {
+    max-width: 555px;
+}
+
+.elementor-349 .elementor-element.elementor-element-c8d82c9 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 100px 0px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_label {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit_form_control {
+    background-color: #FFFFFF;
+    border-radius: 80px 80px 80px 80px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #F0F0F0;
+    padding: 24px 20px 24px 30px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_container {
+    flex: 0 0 100%;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_inline_form .elementskit_input_wraper:not(:last-child) {
+    margin-right: 0px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit_form_control::-webkit-input-placeholder {
+    color: #D0D0D0;
+    font-size: 14px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit_form_control::-moz-placeholder {
+    color: #D0D0D0;
+    font-size: 14px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit_form_control:-ms-input-placeholder {
+    color: #D0D0D0;
+    font-size: 14px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit_form_control:-moz-placeholder {
+    color: #D0D0D0;
+    font-size: 14px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 80px 80px 80px 80px;
+    padding: 12px 20px 12px 20px;
+    width: 144px;
+    margin: 0px 0px 11px -155px;
+    color: #fff;
+    background-color: #dd9711;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit svg path {
+    stroke: #fff;
+    fill: #fff;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit:hover {
+    color: #fff;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit:hover svg path {
+    stroke: #fff;
+    fill: #fff;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit>i,
+.elementor-349 .elementor-element.elementor-element-2b70a37 .ekit-mail-submit>svg {
+    margin-right: 10px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_group_text i {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_group_text svg path {
+    stroke: #000000;
+    fill: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_group_text {
+    font-size: 10px;
+}
+
+.elementor-349 .elementor-element.elementor-element-2b70a37 .elementskit_input_group_text svg {
+    max-width: 10px;
+}
+
+.elementor-349 .elementor-element.elementor-element-4d91e27 {
+    padding: 0px 0px 100px 0px;
+}
+
+.elementor-349 .elementor-element.elementor-element-4f7cd59 .elementskit-section-title-wraper .elementskit-section-title>span {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-4f7cd59 .elementskit-section-title-wraper p {
+    color: #FFFFFF;
+}
+
+.elementor-349 .elementor-element.elementor-element-56df11c .elementskit-section-title-wraper .elementskit-section-title>span {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-56df11c .elementskit-section-title-wraper p {
+    color: #FFFFFF;
+}
+
+.elementor-349 .elementor-element.elementor-element-e5eb093 .elementskit-section-title-wraper .elementskit-section-title>span {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-e5eb093 .elementskit-section-title-wraper p {
+    color: #FFFFFF;
+}
+
+.elementor-349 .elementor-element.elementor-element-0899f98>.elementor-container {
+    min-height: 94px;
+}
+
+.elementor-349 .elementor-element.elementor-element-0899f98>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-349 .elementor-element.elementor-element-0899f98:not(.elementor-motion-effects-element-type-background),
+.elementor-349 .elementor-element.elementor-element-0899f98>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #fff;
+}
+
+.elementor-349 .elementor-element.elementor-element-0899f98 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.elementor-349 .elementor-element.elementor-element-0899f98>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-349 .elementor-element.elementor-element-b997139 .elementskit-section-title-wraper .elementskit-section-title>span {
+    color: #000000;
+}
+
+.elementor-349 .elementor-element.elementor-element-b997139 .elementskit-section-title-wraper p {
+    color: #FFFFFF;
+}
